@@ -102,6 +102,9 @@ python pyscript.py
 ```
 ### Step 3: Load to MySQL
 ### Step 4: Connect Tableau to MySQL
+```bash
+Tableau dashboard.twb
+```
 - Tableau Desktop is required for this step. Then you can use this dashboard to explore your own health data!
   
 ---
