@@ -98,7 +98,7 @@ I designed and implemented a full data workflow using Python, SQL, and Tableau:
 
 ### Step 2: Preprocess Data in Python
 ```bash
-python parse_health_data.py
+python pyscript.py
 ```
 ### Step 3: Load to MySQL
 ### Step 4: Connect Tableau to MySQL
